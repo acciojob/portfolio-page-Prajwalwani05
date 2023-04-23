@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+.intro img{
+	margin:2%;
+}
+.intro a{
+	text-decoration:none;
+	color:black;
+}
